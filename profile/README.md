@@ -12,3 +12,5 @@ Created by Little Bear Labs, Arcas brings visibility and intelligence to your We
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4349601&conversionId=8324057&fmt=gif" />
