@@ -1,6 +1,6 @@
 ## Improving every WebRTC application
 
-Created by Little Bear Labs, Arcas brings visibility and intelligence to your WebRTC products by measuring, recreating, and optimizing your users' experiences.
+Created by [Little Bear Labs](https://littlebearlabs.io/), Arcas brings visibility and intelligence to your WebRTC products by measuring, recreating, and optimizing your users' experiences.
 
 <!--
 
